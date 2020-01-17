@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54da4dcd-97a4-4d3a-99a4-6ad4460ef21f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README_EN.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README_EN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/androidTest/java/com/weijiaxing/logcatviewer/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/weijiaxing/logcatviewer/ui/UseFloatingLogcatServiceActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/weijiaxing/logcatviewer/ui/UseFloatingLogcatServiceActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/weijiaxing/logcatviewer/ui/UseLogcatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/weijiaxing/logcatviewer/ui/UseLogcatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/weijiaxing/logcatviewer/ui/UseLogcatControlActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/weijiaxing/logcatviewer/ui/UseLogcatControlActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/test/java/com/weijiaxing/logcatviewer/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/compile_library_classes/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/runtime_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/runtime_library_classes/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weijiaxing/logviewer/ExportLogFileTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/skyfox/logviewer/ExportLogFileTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weijiaxing/logviewer/FloatingLogcatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/skyfox/logviewer/FloatingLogcatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weijiaxing/logviewer/LogItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/skyfox/logviewer/LogItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weijiaxing/logviewer/LogcatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/skyfox/logviewer/LogcatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weijiaxing/logviewer/LogcatAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/skyfox/logviewer/LogcatAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weijiaxing/logviewer/LogcatDetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/skyfox/logviewer/LogcatDetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weijiaxing/logviewer/LogcatFileProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/skyfox/logviewer/LogcatFileProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_logcat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_logcat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_logcat_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_logcat_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/service_floating_logcat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/service_floating_logcat.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="46" />
+    <option name="y" value="23" />
+    <option name="width" value="1784" />
+    <option name="height" value="858" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AndroidSDK" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54da4dcd-97a4-4d3a-99a4-6ad4460ef21f" name="Default Changelist" comment="" />
+      <created>1577697743519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577697743519</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="23" width="1784" height="858" extended-state="0" />
+    <layout>
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3295063" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="DevEco Output" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Gradle View" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32898173" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+</project>
